@@ -1,3 +1,2 @@
 #!/bin/bash
-username=$(root)
-echo "Effective username: $username"
+root
