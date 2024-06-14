@@ -1,3 +1,2 @@
 #!/bin/bash
-# echo "Operating System: $(uname -s)"
-echo "root"
+echo "root";
